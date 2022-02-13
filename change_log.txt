@@ -1,7 +1,7 @@
 Copyright (c) Delta-Studios 2022
-╔═════════════╗
-║Delta Changes║
-╚═════════════╝
+╔═════════════════╗
+║Delta-IDE Changes║
+╚═════════════════╝
 ╔═════════════════════╗
 ║ ! Important         ║
 ║ * fixes/changes     ║
@@ -10,6 +10,6 @@ Copyright (c) Delta-Studios 2022
 ║ # Other             ║
 ╚═════════════════════╝
 
-pre.alpha.1.0
-!The first version of "Delta" was released!
-!Filenameextension: ".dpl" -> Delta Programing Language
+alpha-1.0
+!The first version of the "Delta-IDE" was released!
+!No use yet...
